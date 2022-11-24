@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.whatsapp{
+    background-color: rgb(20, 121, 120);
+    text-align: center;
+}
+.icon i{
+    font-size: 20px;
+    padding-left: 67rem;
+    font-size: 50px;
+    color: white;
+}
+.icon1 i{
+    font-size: 100px;
+    background-color: rgb(105, 167, 139);
+    width: 99px;
+    border-radius: 180px;
+
+}
+.simple{
+    padding: 30px;
+    color: white;
+    font-size: 40px;
+}
+.simple1{
+    padding:30px ;
+    margin: 10px;
+    font-size: 24px;
+}
+.playstore{
+    display: flex;
+    padding: 10px;
+    background-color: black;
+    margin: 0 24rem;
+    border: 1px solid white;
+    border-radius: 23px;
+}
+.play{
+    font-size: 90px;
+
+}
+.store h6{
+    padding-right: 9.5rem;
+}
+.wpapp{
+    background-color: #92dedc
+}
+.wpapp1{
+    width: 53rem;
+    padding-left: 27rem;
+    font-size: 20px;
+}
+.wpapp1 h2{
+    padding-top: 30px;
+    font-size: 39px;
+}
+.wpapp1 p{
+    padding-top: 30px;
+}
+.wpapp1 span{
+color: rgb(71, 209, 233);
+}
+.image2{
+    padding-top: 30px;
+}
+.circle{
+    background-color: rgb(194, 194, 194) ;
+    padding: 30px;
+}
+.dot{
+    width: 200px;
+    height: 200px;
+    background-color:#92dedc;
+    border-radius: 150px;
+    display: inline-block;
+}
+.security{
+    width: 797px;
+    height: 202px;
+    padding-left: 450px;
+}
+.explore{
+    padding: 60px;
+    background-color: white;
+}
+.explore a{
+    text-decoration: none;
+    color: #15b9b4;
+    border: 2px solid #15b9b4;
+    border-radius: 30px;
+    padding: 20px;
+}
+.footer{
+    display: flex;
+    background-color: rgb(118, 118, 186);
+}
+.foot1{
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.foot1 h5{
+    margin: 20px;
+    text-align: justify;
+}
+.foot2{
+    padding: 10px;
+    padding-left: 36rem;
+}
+
+.foot2 h5{
+    margin: 20px;
+    text-align: justify;
+}
+.footer2{
+    display: flex;
+    background-color: rgb(118, 118, 186);
+}
+.foot3{
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.foot3 h5{
+    margin: 20px;
+    text-align: justify;
+}
+.foot4{
+    padding: 10px;
+    padding-left: 36rem;
+}
+
+.foot4 h5{
+    margin: 20px;
+    text-align: justify;
+    padding-left: 30px;
+}
+.foot5 p{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    padding-right: 67rem;
+}
